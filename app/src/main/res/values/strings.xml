@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mvvm tragos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lista_de_tragos">Lista de Tragos</string>
+    <string name="str_cocktail">cocktail</string>
+    <string name="str_cocktails">Cocktails</string>
+    <string name="str_favorite">favorite</string>
+    <string name="str_favorites">Favoritos</string>
+    <string name="str_detalle">Detalle</string>
+</resources>
